@@ -1,7 +1,8 @@
 # Simulación de Llenado de Estanque
 
 Bienvenido a la simulación de llenado de estanque hecha en Pygame. Esta aplicación fue creada con el objetivo de mostrar gráficamente el proceso de llenado de un estanque con agua.
-Requisitos
+
+Requisitos:
 
 Para poder ejecutar esta simulación es necesario tener instalado Pygame en tu sistema. Si no tienes Pygame instalado, puedes seguir las instrucciones de su sitio oficial para instalarlo.
 
